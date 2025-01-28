@@ -1,4 +1,4 @@
 cmake_minimum_required(VERSION 3.10)
-project(Vulkan_Test)
+project(vulkantest)
 
-add_executable(main.cpp)
+add_executable(main.cpp)gi
